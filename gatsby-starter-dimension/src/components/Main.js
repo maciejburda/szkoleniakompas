@@ -111,7 +111,7 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Kontakt</h2>
-          <form method="post" action="mailto:szkoleniakompas@gmail.com" enctype="multipart/form-data">
+          <form method="post" action="mailto:szkoleniakompas@gmail.com" encType="multipart/form-data">
             <div className="field half first">
               <label htmlFor="name">Imię i Nazwisko</label>
               <input type="text" name="name" id="name" />
