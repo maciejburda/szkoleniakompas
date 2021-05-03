@@ -3,8 +3,7 @@ module.exports = {
     title: 'Kompas Szkolenia',
     author: 'Szymon Bilski',
     description: 'Centrum Wykształcenia Żeglarskiego',
-    siteUrl: 'http://www.szkolenia-kompas.pl/',
-    pathPrefix: "/szkoleniakompas",
+    siteUrl: 'http://www.szkolenia-kompas.pl/'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
