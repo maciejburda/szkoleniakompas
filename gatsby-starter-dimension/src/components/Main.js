@@ -33,23 +33,10 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
+          Centrum Wyszkolenia Żeglarskiego "Kompas" świadczy szeroką gamę usług związanych z turystyką wodną. Prowadzimy profesjonalne kursy żeglarskie i motorowodne kończące się egzaminem dającym uprawnienia państwowe.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+          Szkolenia przeprowadzane są przez wykwalifikowaną i doświadczoną kadrę zgodnie z systemami szkolenia. Współpracujemy z renomowanymi klubami, ośrodkami wodnymi i stowarzyszeniami. Oferta skierowana jest również dla osób chcących podnosić swoje umiejętności oraz zdobywać doświadczenie nautyczne zarówno śródlądowe jak i morskie. Organizujemy warsztaty marynistyczne i manewrowe oraz rejsy morskie. Firma zajmuje się kompleksowymi usługami szkutniczymi. 
           </p>
           {close}
         </article>
@@ -65,21 +52,13 @@ class Main extends React.Component {
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
-          <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
-          </p>
-          <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
-          </p>
+          <p>Jachtowy sternik morski: 2000zł</p>
+          <p>Żeglarz jachtowy: 1500zł</p>
+          <p>Sternik motorowodny: 450zł</p>
+          <br/>
+          <p>Usługi skiperskie: 1500zł</p>
+          <p>Usługi szkutnicze: 500zł</p>
+          
           {close}
         </article>
 
